@@ -4,20 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SwiftDemo.xcscheme</key>
+		<key>OpenGL-ES2.0.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>5</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6A56E4541C74519800513EF7</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>6A56E4691C74519800513EF7</key>
+		<key>6A1A74641D9221F70020BABF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
