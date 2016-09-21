@@ -156,6 +156,7 @@
 		6A56E44D1C74519800513EF7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = TuLigen;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				6A56E4761C74519800513EF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6A56E4771C74519800513EF7 /* Build configuration list for PBXNativeTarget "SwiftDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				6A56E4791C74519800513EF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

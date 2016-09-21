@@ -11,9 +11,6 @@
       location = "group:Ios_lib/Ios_lib.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:OpenGLES/OpenGLES.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:SwiftDemo/SwiftDemo.xcodeproj">
    </FileRef>
    <FileRef
