@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:IOS_Test/IOS_Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GetLocation/GetLocation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Ios_lib/Ios_lib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGLES/OpenGLES.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftDemo/SwiftDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WordChange/WordChange.xcodeproj">
+   </FileRef>
+</Workspace>
