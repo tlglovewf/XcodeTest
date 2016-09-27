@@ -37,6 +37,8 @@
     NSString *str =  [NSString stringWithFormat:@"%d",5];
     _label.text = str;
 }
+- (IBAction)popView:(id)sender {
+}
 - (IBAction)lowerClick:(id)sender {
 }
 - (IBAction)uppercaseClick:(id)sender {

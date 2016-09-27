@@ -27,9 +27,16 @@
 {
     [_renderView viewWillDisappear];
 }
+- (IBAction)userCamera:(id)sender {
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+- (IBAction)popListUI:(id)sender {
+    
+}
+- (IBAction)popView:(id)sender {
 }
 
 @end

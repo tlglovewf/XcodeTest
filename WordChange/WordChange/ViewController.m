@@ -31,6 +31,14 @@
     _resultTxt.text = @"Results";
     // Do any additional setup after loading the view, typically from a nib.
 }
+- (IBAction)one:(id)sender {
+}
+- (IBAction)popView:(id)sender {
+}
+- (IBAction)popUI:(id)sender {
+}
+- (IBAction)click {
+}
 - (IBAction)upperClick:(id)sender {
     NSString *original  = _inputTxt.text;
     NSString *uppercase = [original uppercaseString];

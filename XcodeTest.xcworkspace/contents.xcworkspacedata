@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UITest/UITest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CameraTest/CameraTest.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:OpenGL-ES2.0/OpenGL-ES2.0.xcodeproj">
    </FileRef>
    <FileRef
