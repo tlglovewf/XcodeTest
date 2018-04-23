@@ -138,6 +138,8 @@
 				TargetAttributes = {
 					6A1A74641D9221F70020BABF = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = U72R3QQ45L;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -287,10 +289,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U72R3QQ45L;
 				INFOPLIST_FILE = "OpenGL-ES2.0/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "navinfo.OpenGL-ES2-0";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "cef36da9-aca9-4b2b-bcb9-3ca4387643a6";
+				PROVISIONING_PROFILE_SPECIFIER = "研发Team2";
 			};
 			name = Debug;
 		};
@@ -298,6 +303,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "OpenGL-ES2.0/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "navinfo.OpenGL-ES2-0";
@@ -324,6 +330,7 @@
 				6A1A747E1D9221F70020BABF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
